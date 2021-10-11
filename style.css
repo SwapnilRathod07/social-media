@@ -1,10 +1,10 @@
-body {
+/*body {
     font-size:15pt;
     
  height:100%;
  
 background-image: url("hacker.png");
-}
+}*/
 body, html {
 
   height: 100%;
@@ -15,7 +15,7 @@ body, html {
 
   
 
-  background-image: url("img_girl.jpg");
+  background-image: url("hacker.png");
 
  
 
