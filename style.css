@@ -1,8 +1,34 @@
-body {
+/*body {
     font-size:15pt;
     
  
  
 background-image: url("hacker.png") 
+
+}*/
+
+body, html {
+
+  height: 100%;
+
+}
+
+.bg {
+
+ 
+
+  background-image: url("img_girl.jpg");
+
+  
+
+  height: 100%;
+
+
+
+  background-position: center;
+
+  background-repeat: no-repeat;
+
+  background-size: cover;
 
 }
