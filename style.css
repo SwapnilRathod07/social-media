@@ -7,15 +7,15 @@ background-image: url("hacker1.png")
 
 }*/
 
-body ,html{
-
+body {
+font-size:15pt;
   height: 100%;
 
-}
 
-.bg {
 
- 
+
+
+
 
   background-image: url("hacker1.png");
 
